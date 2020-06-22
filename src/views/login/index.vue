@@ -3,7 +3,7 @@
     <el-switch v-model="toggleParticles"
       inactive-color="#ff4949">
     ></el-switch>
-    <el-button class="show-account" type="text" @click="accountTip">提示帐号信息</el-button>
+    <el-button class="show-account" type="text" @click="accountTip">提示帐5555号信息</el-button>
     <el-card class="animated flipInY">
       <div slot="header" class="el-card-header">
         <lang-select class="lang-select"></lang-select>

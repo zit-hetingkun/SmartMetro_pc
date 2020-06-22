@@ -9,7 +9,7 @@
 
 ``` bash
 # 克隆项目
-git clone https://github.com/Neveryu/vue-cms.git
+git clone https://github.com/zit-hetingkun/SmartMetro_pc.git
 
 # 进入项目
 cd vue-cms
